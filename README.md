@@ -37,4 +37,4 @@ Este proyecto es una implementación desarrollada como parte de la materia de Bl
 
 ## Acceso al contrato en el Block Explorer
 
-Puedes visualizar el contrato inteligente desplegado en el Block Explorer a través del siguiente enlace: https://sepolia.etherscan.io/address/0xbb58faeb0ed0bc90d34eb7de785b13b7845dea7b
+Puedes visualizar el contrato inteligente desplegado en el Block Explorer a través del siguiente enlace: https://sepolia.etherscan.io/tx/0x9b2da4861b174f7b5c7204916b08424ff513f675684951181a9d320139b6b755
